@@ -11,3 +11,10 @@ I'm a junior penetration tester, certified eLearnSecurity Web Application Penetr
 Always learning and improving.
 
 This blog is where I document my journey. Maybe others find something useful here too.
+
+## Certifications
+
+| Certification | Status |
+| --- | --- |
+| eWPTX | 12/07/2026 |
+| CRTP | In progress |
