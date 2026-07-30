@@ -1,14 +1,14 @@
 ---
-title: "eWPTXv3 Study Plan: Advanced Web Exploitation Without Chaos"
-date: 2024-04-21 12:00:00 +0100
+title: "How I Got eWPTX"
+date: 2026-07-15 12:00:00 +0100
 categories: [Certifications, eWPTXv3]
-tags: [eWPTXv3, Web AppSec, Study Plan, Burp Suite]
+tags: [eWPTX, Web AppSec, Study Plan]
 description: "A practical eWPTXv3 preparation roadmap covering advanced web topics, lab cadence, notes, reporting, and review habits."
 toc: true
 ---
 
-> Certification: eWPTXv3  
-> Status: In progress
+> Certification: eWPTX  
+> Status: Certified on 12/07/2026
 
 ## Study Goals
 
@@ -32,10 +32,6 @@ mkdir -p notes/{recon,exploitation,evidence,report}
 ```
 
 Every lab gets the same structure: hypothesis, test, result, impact, and remediation. That makes review sessions useful because weak spots show up as missing evidence, not vague anxiety.
-
-## Tools
-
-Burp Suite is the primary cockpit. I keep `ffuf`, `nuclei`, `httpx`, `jq`, and browser dev tools close, but I avoid turning study sessions into tool collection.
 
 ## Exam Readiness Checklist
 

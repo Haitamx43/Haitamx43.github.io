@@ -12,24 +12,25 @@ I document authorized offensive security work, CTF practice, bug bounty methodol
 
 ## Focus Areas
 
+- Networks and systems administration
+- Linux and Windows Server administration
+- Active Directory administration and security
+- Network administration and virtualization
 - Web application security
-- Bug bounty reconnaissance and reporting
-- Linux and Windows privilege escalation
-- Active Directory fundamentals
-- CTF methodology
-- Certification preparation
+- Network security
+- Bug bounty methodology
+- Offensive security, especially web application security and Active Directory
 
-## Tools I Use
+I have a background in networks and systems, including Linux, Windows Server, Active Directory administration, network administration, and virtualization. I am certified eWPTX, and I have studied web application security, network security, and bug bounty methodology through practical learning and resources like PortSwigger.
 
-Burp Suite, Nmap, sqlmap, nuclei, ffuf, Caido, Metasploit, BloodHound, Wireshark, Docker, and a steady notes workflow.
+I am still improving and learning more about web application security, advanced techniques, modern vulnerabilities, networks, Active Directory, and offensive security.
 
 ## Certifications
 
 | Certification | Status | Focus |
 | --- | --- | --- |
-| eWPTXv3 | In progress | Advanced web exploitation and reporting |
-| Practical Web App Testing | Completed | Web methodology and evidence handling |
-| Active Directory Labs | In progress | Windows internals and domain attack paths |
+| eWPTX | Certified on 12/07/2026 | Advanced web application security |
+| CRTP | In progress | Active Directory offensive security |
 
 ## Contact
 
